@@ -22,14 +22,14 @@ Relevant factors:
       - XXX: number of existing contributions in the given issue category + 1 (three digits),
       - blocks separated by "_".
 
-2. *(Optional)* Make a directory named "assets" inside the directory created in Step 1. for any supporting documents, files, pictures, recordings, etc. that may be relevant for your case.
+2. Make a directory named "assets" inside the directory created in Step 1. for any supporting documents, files, pictures, recordings, etc. that may be relevant for your case.
 
-3. Create a single .md file using the same name as the directory created in Step 1. This is the main file for the instance of your concrete case.
-   - Add the description of the events in this .md file including:
+3. Create a main .md file using the same name as for the directory created in Step 1. This is the main file for the instance of your concrete case containing the details of the events.
+   - Provide short factual descriptions of the events in this .md file including:
      - Short description of case providing a big picture,
      - Start date of process / support request,
      - Date of latest update to the request,
-     - Number of interactions with support,
+     - Number of interactions with support to date,
      - Current status of the case (e.g. unsolved / solved in such and such a way / gave up, etc..).
      - For an example see the following case involving a legitimate refund request being blocked by the support team: [Google Ads Refund Nightmare](Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001.md)
    - Add any supporting documents using (relative?) links.
@@ -44,3 +44,18 @@ Relevant factors:
      - If the general type of issue is already present in this directory, chose that one! If the general type of issue is not yet present, add it by defining its name as succinctly as possible. Use max 5 words without spaces with the first letter of each word capitalized, e.g. *Refund, BlockedAccount, DiscrepancyInstructionsVsInterface*, etc.
    - **Concrete case:** Place your directory (created in Step 1. and 2.) and your .md file(s) in this directory.    
        
+5. *(Optional)* If you would like to provide an in-depth, subjetive analysis of the process, create another .md file and name it using the same name as for the directory (Step 1.) and for the main .md file (Step 3.), then append the word "analysis" with a "_"  after the last 3 digit number block. Example: *[`250228_drgalapagos_001_analysis.md`](Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_analysis.md)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
