@@ -1,36 +1,37 @@
 # **Case:**
 
-# Automatic refund process from Google Ads payment profile to bank account triggered by closing the payment profile failed due to the missing option to select “COMPLETE REFUND”, which was mentioned in the first notification e-mail about the refund. This document shows an attempt to get help from the support team.
+Automatic refund process from Google Ads payment profile to bank account triggered by closing the payment profile failed due to the missing option to select “COMPLETE REFUND”, which was mentioned in the first notification e-mail about the refund. This document shows an attempt to get help from the support team.
 
-# **Start date of process:** 
+## **Start date of process:** 
 
 * 2025.02.28.
 
-# **Date of latest update to this document:** 
+## **Date of latest update to this document:** 
 
 * 2025.05.23.
 
-# **Duration of process so far (based on Date of latest update to this document):**
+## **Duration of process so far (based on Date of latest update to this document):**
 
 * 84 days
 
-# **Structure of document:**
+## **Structure of document:**
 
 * EVENTS are sorted by ascending order of date (i.e. latest update at the end of document). SCREENSHOTS of events where a reply is sent to an e-mail are sorted by a descending order of date (i.e. latest reply to an e-mail is at the beginning of the screenshot). E-mail MESSAGES are followed by the attachments sent with the e-mail (if there’s any).
 
-# **Number of e-mails sent and received in connection with this case:**
+## **Number of e-mails sent and received in connection with this case:**
 
 * 31
 
-# **Current status:**
+## **Current status:**
 
 * Unsolved, the support team keeps preventing the completion of a legitimate refund process with various dark tactics and strategies.
 
-# **Previous statuses:**
+## **Previous statuses:**
 
-* # Unsolved, the support team keeps preventing the completion of a legitimate refund process with various dark tactics and strategies.
+* Unsolved, the support team keeps preventing the completion of a legitimate refund process with various dark tactics and strategies.
 
-![][image1]  
+![250228_00_01](https://github.com/user-attachments/assets/25fbcedf-9f85-4369-8715-6ffc257f88ed)
+
 **Event number:** 01\.
 
 **Event date:** 2025.02.28.
