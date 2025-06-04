@@ -35,7 +35,7 @@ Dragged and droped:
 ![250228_00_01](https://github.com/user-attachments/assets/25fbcedf-9f85-4369-8715-6ffc257f88ed)
 
 Linked from dir with relative path:
-![250228_00_01](./250228_00_01.jpg)
+![250228_00_01](../assets/250228_00_01.jpg)
 
 **Event date:** 2025.02.28.
 
