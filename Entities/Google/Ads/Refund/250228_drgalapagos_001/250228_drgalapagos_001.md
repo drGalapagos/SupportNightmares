@@ -30,11 +30,10 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 * Unsolved, the support team keeps preventing the completion of a legitimate refund process with various dark tactics and strategies.
 
-## **Event number:** 01\.
-Dragged and droped:
-![250228_00_01](https://github.com/user-attachments/assets/25fbcedf-9f85-4369-8715-6ffc257f88ed)
+# Events #
 
-Linked from dir with relative path:
+## **Event number:** 01\.
+
 ![250228_00_01](./assets/250228_00_01.jpg)
 
 **Event date:** 2025.02.28.
@@ -43,8 +42,11 @@ Linked from dir with relative path:
 
 **Issue:** Option mentioned in the notification mail to “COMPLETE REFUND” was not found on the “Billing and Payments tab”, nor on the “Balance card”.
 
-**Step taken by customer:** Trying to reach Google Ads Support for help.![][image2]  
-**Event number:** 02\.
+**Step taken by customer:** Trying to reach Google Ads Support for help. 
+
+## **Event number:** 02\.
+
+![][image2]
 
 **Event date:** 2025.02.28.
 
@@ -53,7 +55,10 @@ Linked from dir with relative path:
 **Issue:** Contacting support through Google Ads Help Center is impossible, or the option is so hidden on purpose that it is nearly impossible.
 
 **Step taken by customer:** Sending e-mails to the address where notification was coming from and some other published e-mail addresses, hoping that one will reach the intended recipient.  
-![][image3]**Event number:** 03\.
+
+## **Event number:** 03\.
+
+![][image3]
 
 **Event date:** 2025.03.14. (14 days after sending the support request).
 
@@ -62,7 +67,10 @@ Linked from dir with relative path:
 **Issue:** None.
 
 **Step taken by customer:** Waiting patiently.  
-![][image4]**Event number:** 04\.
+
+## **Event number:** 04\.
+
+![][image4]
 
 **Event date:** 2025.03.17. (17 days after sending a support request, 3 days after creating the case).
 
@@ -70,7 +78,11 @@ Linked from dir with relative path:
 
 **Issue:** None.
 
-**Step taken by customer:** Waiting patiently.![][image5]**Event number:** 05\.
+**Step taken by customer:** Waiting patiently.
+
+## **Event number:** 05\.
+
+![][image5]
 
 **Event date:** 2025.03.19. (19 days after sending a support request, 5 days after creating the case).
 
@@ -78,7 +90,12 @@ Linked from dir with relative path:
 
 **Issue:** The support team ignored a previous request to transfer funds to the new Google Ads Payment profile, instead of sending the refund to our bank account.
 
-**Step taken by customer:** Spending time formulating a reply.![][image6]![][image7]**Event number:** 06\.
+**Step taken by customer:** Spending time formulating a reply.
+
+## **Event number:** 06\.
+
+![][image6]
+![][image7]
 
 **Event date:** 2025.03.20. (20 days after sending a support request, 6 days after creating the case).
 
@@ -86,7 +103,11 @@ Linked from dir with relative path:
 
 **Issue:** The support team ignored a previous request to transfer funds to the new Google Ads Payment profile, instead of sending the refund to our bank account.
 
-**Step taken by customer:** Asking the same question again, sending the same attachment again.![][image8]**Event number:** 07\.
+**Step taken by customer:** Asking the same question again, sending the same attachment again.
+
+## **Event number:** 07\.
+
+![][image8]
 
 **Event date:** 2025.03.20. (20 days after sending a support request, 6 days after creating the case).
 
@@ -94,7 +115,11 @@ Linked from dir with relative path:
 
 **Issue:** None.
 
-**Step taken by customer:** Accepting that only a bank transfer is possible and submitting the data for the bank transfer on the form provided by the support team.![][image9]**Event number:** 08\.
+**Step taken by customer:** Accepting that only a bank transfer is possible and submitting the data for the bank transfer on the form provided by the support team.
+
+## **Event number:** 08\.
+
+![][image9]
 
 **Event date:** 2025.03.21. (21 days after sending a support request, 7 days after creating the case).
 
@@ -102,7 +127,16 @@ Linked from dir with relative path:
 
 **Issue:** None.
 
-**Step taken by customer:** Following the instructions and acknowledging the situation, thanking the support team for their help and providing confirmation about the successful submission of the refund form. Waiting patiently, trusting that everything is in order with the case.![][image10]![][image11]![][image12]![][image13]![][image14]![][image15]**Event number:** 09\.
+**Step taken by customer:** Following the instructions and acknowledging the situation, thanking the support team for their help and providing confirmation about the successful submission of the refund form. Waiting patiently, trusting that everything is in order with the case.
+
+## **Event number:** 09\.
+
+![][image10]
+![][image11]
+![][image12]
+![][image13]
+![][image14]
+![][image15]
 
 **Event date:** 2025.04.23. (54 days after sending a support request, 40 days after creating the case).
 
@@ -110,7 +144,11 @@ Linked from dir with relative path:
 
 **Issue:** Despite promises by Google Ads and the support team, the customer has not received any notifications about starting the refund, nor did the customer receive the promised refund to the bank account provided on the refund form.
 
-**Step taken by customer:** Collecting and organizing all information to provide a good overview of the problem to the support team, and sending inquiry about the status of the unfinished refund process.![][image16]**Event number:** 10\.
+**Step taken by customer:** Collecting and organizing all information to provide a good overview of the problem to the support team, and sending inquiry about the status of the unfinished refund process.
+
+## **Event number:** 10\.
+
+![][image16]
 
 **Event date:** 2025.04.24. (55 days after sending a support request, 41 days after creating the case).
 
@@ -118,11 +156,13 @@ Linked from dir with relative path:
 
 **Issue:** None.
 
-**Step taken by customer:** Following instructions provided by the support team.![][image17]  
-![][image18]
+**Step taken by customer:** Following instructions provided by the support team.
 
-![][image19]  
-**Event number:** 11\.
+## **Event number:** 11\.
+
+![][image17]  
+![][image18]
+![][image19]
 
 **Event date:** 2025.04.24. (55 days after sending a support request, 41 days after creating the case).
 
@@ -130,7 +170,11 @@ Linked from dir with relative path:
 
 **Issue:** None.
 
-**Step taken by customer:** Complying with the instructions, waiting patiently for any progress with the case.![][image20]**Event number:** 12\.
+**Step taken by customer:** Complying with the instructions, waiting patiently for any progress with the case.
+
+## **Event number:** 12\.
+
+![][image20]
 
 **Event date:** 2025.04.25. (56 days after sending a support request, 42 days after creating the case).
 
@@ -138,7 +182,12 @@ Linked from dir with relative path:
 
 **Issue:** No explanation why the refund process failed, only providing a completely uninformative explanation that does not make sense in light of the previous events, and considering what triggered the automatic refund process (i.e. closing the payment profile).
 
-**Step taken by customer:** Formulating a response pointing out problems with the work of the wider / dedicated teams, requesting correction of the error.![][image21]![][image22]**Event number:** 13\.
+**Step taken by customer:** Formulating a response pointing out problems with the work of the wider / dedicated teams, requesting correction of the error.
+
+## **Event number:** 13\.
+
+![][image21]
+![][image22]
 
 **Event date:** 2025.04.25. (56 days after sending a support request, 42 days after creating the case).
 
@@ -146,7 +195,12 @@ Linked from dir with relative path:
 
 **Issue:** No solutions or even an attempt to a solution was provided by the “support” team, acting as if the case was successfully solved and the customer’s request has been addressed properly.
 
-**Step taken by customer:** Formulating another reply to clarify the problems from the customer’s perspective.![][image23]![][image24]**Event number:** 14\.
+**Step taken by customer:** Formulating another reply to clarify the problems from the customer’s perspective.
+
+## **Event number:** 14\.
+
+![][image23]
+![][image24]
 
 **Event date:** 2025.04.25. (56 days after sending a support request, 42 days after creating the case).
 
@@ -154,7 +208,11 @@ Linked from dir with relative path:
 
 **Issue:** Unsolved case neglected by the support team.
 
-**Step taken by customer:** Formulating another reply to request a quick solution to an already overly delayed process.![][image25]**Event number:** 15\.
+**Step taken by customer:** Formulating another reply to request a quick solution to an already overly delayed process.
+
+## **Event number:** 15\.
+
+![][image25]
 
 **Event date:** 2025.04.28. (59 days after sending a support request, 45 days after creating the case).
 
@@ -162,7 +220,12 @@ Linked from dir with relative path:
 
 **Issue:** The support team provides self-contradicting pieces of information, shows repeated failures to keep their own promises and respect the requests of a paying customer. Note the formulation of a tricky opt-out by default option provided by the support team (i.e. if the customer does not actively reply (opt-in) to the last notification, the default setting is to opt-out from the continuation of the refund process. This way there is a higher chance that the support team will not have to process the refund if a customer forgets or misses to opt-in to continue the process)\!
 
-**Step taken by customer:** Formulating a reply in a similar manner to the ones provided by the support team to minimize the waste of the customer’s valuable time at this point (i.e. copy-paste previous reply)..![][image26]![][image27]**Event number:** 16\.
+**Step taken by customer:** Formulating a reply in a similar manner to the ones provided by the support team to minimize the waste of the customer’s valuable time at this point (i.e. copy-paste previous reply)..
+
+## **Event number:** 16\.
+
+![][image26]
+![][image27]
 
 **Event date:** 2025.04.28. (59 days after sending a support request, 45 days after creating the case).
 
@@ -171,8 +234,10 @@ Linked from dir with relative path:
 **Issue:** Failure to delegate the task to an appropriate team member, who is able to complete the promised refund ASAP.
 
 **Step taken by customer:** Waiting patiently after clarifying the request and the case for the 16th time so far.  
-**![][image28]**  
-**Event number:** 17\.
+
+## **Event number:** 17\.
+
+![][image28]
 
 **Event date:** 2025.04.29. (60 days after sending a support request, 46 days after creating the case).
 
@@ -181,8 +246,10 @@ Linked from dir with relative path:
 **Issue:** Further delay introduced by the support team, another failure to delegate the task to an appropriate team member, who is able to complete the promised refund ASAP.
 
 **Step taken by customer:** Keeping the conversation going, and formulating response while waiting patiently.  
-**![][image29]**  
-**Event number:** 18\.
+
+## **Event number:** 18\.
+
+![][image29]
 
 **Event date:** 2025.04.29. (60 days after sending a support request, 46 days after creating the case).
 
@@ -191,8 +258,10 @@ Linked from dir with relative path:
 **Issue:** Further delay introduced by the support team, another failure to delegate the task to an appropriate team member, who is able to complete the promised refund ASAP.
 
 **Step taken by customer:** Expressing continued hope for the successful completion of the promised refund by a simple bank transfer.  
-**![][image30]**  
-**Event number:** 19\.
+
+## **Event number:** 19\.
+
+![][image30]
 
 **Event date:** 2025.05.01. (62 days after sending a support request, 48 days after creating the case).
 
@@ -201,8 +270,10 @@ Linked from dir with relative path:
 **Issue:** Further delay introduced by the support team, another failure to delegate the task to an appropriate team member, who is able to complete the promised refund ASAP.
 
 **Step taken by customer:** Waiting patiently.  
-**![][image31]**  
-**Event number:** 20\.
+ 
+## **Event number:** 20\.
+
+![][image31]
 
 **Event date:** 2025.05.07. (68 days after sending a support request, 54 days after creating the case).
 
@@ -211,9 +282,10 @@ Linked from dir with relative path:
 **Issue:** Further delay introduced by the support team, another failure to delegate the task to an appropriate team member, who is able to complete the promised refund ASAP.
 
 **Step taken by customer:** Waiting patiently.  
-![][image32]
 
-**Event number:** 21\.
+## **Event number:** 21\.
+
+![][image32]
 
 **Event date:** 2025.05.12. (73 days after sending a support request, 59 days after creating the case).
 
@@ -222,8 +294,11 @@ Linked from dir with relative path:
 **Issue:** Failure to delegate the task to an appropriate team member, who is able to complete the promised refund ASAP, deceptive, self-contradictory communication, disregarding both the request of the customer to transfer the funds to the bank account and disregarding Google Ads’ own refund policy.
 
 **Step taken by customer:** Explaining the request and the unfairness of this procedure one more time to the support team.  
-**![][image33]![][image34]**  
-**Event number:** 22\.
+ 
+## **Event number:** 22\.
+
+![][image33]
+![][image34]
 
 **Event date:** 2025.05.13. (74 days after sending a support request, 60 days after creating the case).
 
@@ -232,8 +307,10 @@ Linked from dir with relative path:
 **Issue:** Same as the previous Event.
 
 **Step taken by customer:** Reply sent with detailed explanations and plans for escalation.  
-![][image35]  
-**Event number:** 23\.
+ 
+## **Event number:** 23\.
+
+![][image35]
 
 **Event date:** 2025.05.14. (75 days after sending a support request, 61 days after creating the case).
 
@@ -242,8 +319,10 @@ Linked from dir with relative path:
 **Issue:** Lack of explanation about what prevents the support team from processing the refund. Lack of justification about why we should trust the claim made by the support team that after cancelling our account the funds will be refunded. The funds were already eligible for a refund, but after 75 days we still have not received them.
 
 **Step taken by customer:** Giving up on this support member and team, no hope of any resolution of the issue. Opening another support request case at Google and filing a complaint to relevant consumer rights protection agencies.  
-**![][image36]**  
-**Event number:** 24\.
+
+## **Event number:** 24\.
+
+![][image36]
 
 **Event date:** 2025.05.14. (75 days after sending the original support request, 61 days after creating the original case).
 
@@ -252,8 +331,10 @@ Linked from dir with relative path:
 **Issue:** Lack of explanation about what prevents the support team from processing the refund. Lack of justification about why we should trust the claim made by the support team that after cancelling our account the funds will be refunded. The funds were already eligible for a refund, but after 75 days we still have not received them.
 
 **Step taken by customer:** Opening another support request case at Google.  
-**![][image37]**  
-**Event number:** 25\.
+
+## **Event number:** 25\.
+
+![][image37]
 
 **Event date:** 2025.05.15. (76 days after sending the original support request, 62 days after creating the original case).
 
@@ -262,8 +343,10 @@ Linked from dir with relative path:
 **Issue:** 
 
 **Step taken by customer:** Waiting patiently.  
-**![][image38]**  
-**Event number:** 26\.
+
+## **Event number:** 26\.
+
+![][image38]
 
 **Event date:** 2025.05.17. (78 days after sending a support request, 64 days after creating the case).
 
@@ -272,8 +355,10 @@ Linked from dir with relative path:
 **Issue:** Case closed automatically after just 3 days of inactivity from the customer. Note the automatic activation of the shady opt-out by default option.
 
 **Step taken by customer:** Feedback provided on the experience without any hope that it will be used to improve the service in any meaningful way.  
-**![][image39]**  
-**Event number:** 27\.
+
+## **Event number:** 27\.
+
+![][image39]
 
 **Event date:** 2025.05.22. (83 days after sending the original support request, 69 days after creating the original case).
 
@@ -286,8 +371,10 @@ Linked from dir with relative path:
 * and all the other steps taken until Event 12\.
 
 **Step taken by customer:** Asking for explanation from the new support team, searching for other channels that may be able to deal with this issue properly.  
-**![][image40]**  
-**Event number:** 28\.
+
+## **Event number:** 28\.
+
+![][image40]
 
 **Event date:** 2025.05.22. (83 days after sending the original support request, 69 days after creating the original case).
 
@@ -300,8 +387,10 @@ Linked from dir with relative path:
 * and all the other steps taken until Event 12\.
 
 **Step taken by customer:** Asking for the specific reason that prevents the new support team from completing a legitimate refund request.  
-**![][image41]**  
-**Event number:** 29\.
+
+## **Event number:** 29\.
+
+![][image41]
 
 **Event date:** 2025.05.22. (83 days after sending the original support request, 69 days after creating the original case).
 
@@ -310,8 +399,10 @@ Linked from dir with relative path:
 **Issue:** Entire handling of the refund request by the support team.
 
 **Step taken by customer:** Waiting patiently.  
-**![][image42]**  
-**Event number:** 30\.
+
+## **Event number:** 30\.
+
+![][image42]
 
 **Event date:** 2025.05.22. (83 days after sending the original support request, 69 days after creating the original case).
 
@@ -320,8 +411,10 @@ Linked from dir with relative path:
 **Issue:** Entire handling of the refund request by the support team.
 
 **Step taken by customer:** Waiting patiently.  
-**![][image43]**  
-**Event number:** 31\.
+
+## **Event number:** 31\.
+
+![][image43]
 
 **Event date:** 2025.05.23. (84 days after sending the original support request, 70 days after creating the original case).
 
