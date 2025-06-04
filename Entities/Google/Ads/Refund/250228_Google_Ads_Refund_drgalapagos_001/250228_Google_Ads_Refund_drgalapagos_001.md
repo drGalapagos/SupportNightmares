@@ -31,8 +31,11 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 * Unsolved, the support team keeps preventing the completion of a legitimate refund process with various dark tactics and strategies.
 
 ## **Event number:** 01\.
-
+Dragged and droped:
 ![250228_00_01](https://github.com/user-attachments/assets/25fbcedf-9f85-4369-8715-6ffc257f88ed)
+
+Linked from dir with relative path:
+![250228_00_01](./250228_00_01.jpg)
 
 **Event date:** 2025.02.28.
 
