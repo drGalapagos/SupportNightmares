@@ -1,6 +1,18 @@
 # SupportNightmares
 A collection of support nightmares with evidence and analysis of behavior
 
+## Motivation
+Unpleasent experiences with various tech support teams require understanding factors contributing to these undesriable situations (from the perspective of the paying user).
+Relevant factors:
+- Power imbalance,
+- Abuse of monopolistic advantages,
+- Effort required to change cervice provider (customer lock-in),
+- Lack of competence at support teams,
+- etc.
+
+## Suggestions for improvements / activities to counter unfair handling of customers
+- Customer rights organizations
+- etc.
 
 ## How to add your contributions
 1. Make a directory named according to the following structure based on your case:
