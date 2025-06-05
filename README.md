@@ -1,4 +1,4 @@
-# SupportNightmares 👻 🧟 🧛
+# 👨‍💻 SupportNightmares 👻 🧟 🧛
 A collection of nightmares (unsolved problems / unpleasent experiences / unfair treatments, etc.) generated during interactions with various customer support teams while they were doing their best to solve problems blocking their paying customers from achieveing their goals. The cases are supplemented with proofs and analyses of the interactions.
 
 ## Motivation
@@ -74,7 +74,7 @@ Some relevant factors:
           - *the main [`250228_drgalapagos_001.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001.md) file describing events in the case,*
           - *along with the [`250228_drgalapagos_001_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_analysis.md) file focusing on the analysis of the case.*
 
-#### Contributions and suggestions are welcome, happy 🧠storming!
+### Contributions and suggestions are welcome, happy 🧠🌩️ing!
 
 
 
