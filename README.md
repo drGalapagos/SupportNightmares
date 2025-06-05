@@ -16,16 +16,16 @@ Some relevant factors:
 
 ## How to add your contributions
 1. Make a directory named according to the following structure based on your specific details:
-    - YYMMDD_NameOfContributor_XXX, where
-      - YYMMDD: start date of the support request / nightmare expressed as the last two digits of the year, the month (two digits) and the day (two digits),
-      - NameOfContributor: your github username,
-      - XXX: number of existing contributions in the given issue category + 1 (three digits),
+    - `YYMMDD_NameOfContributor_XXX`, where
+      - `YYMMDD`: start date of the support request / nightmare expressed as the last two digits of the year, the month (two digits) and the day (two digits),
+      - `NameOfContributor`: your github username,
+      - `XXX`: number of existing contributions in the given issue category + 1 (three digits),
       - blocks should be separated by `_`.
     - *Example: `250228_drgalapagos_001`*
 
 2. Make a directory named `assets` inside the directory created in Step 1. for any supporting documents, files, pictures, recordings, etc. that may be relevant for your case.
 
-3. Create a main `.md` file using the same name as for the directory created in Step 1. This is the main file for the instance of your concrete case containing the details of the events.
+3. Create a `.md` file using the same name as for the directory created in Step 1. This is the main file for the instance of your concrete case containing all the details of the events.
    - Provide a short summary (~ 1 page) of the entire process at the beginning of this .md file including:
      - Short description of case providing a big picture,
      - Start date of process / support request,
