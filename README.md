@@ -24,7 +24,7 @@ Some relevant factors:
 
 2. Make a directory named `assets` inside the directory created in Step 1. for any supporting documents, files, pictures, recordings, etc. that may be relevant for your case.
 
-3. Create a `.md` file using the same name as for the directory created in Step 1. This is the main file for the instance of your concrete case containing all the details of the events.
+3. Create a `.md` file within the directory created in Step 1. using the directory's name for the file. This will be the main file for the instance of your case containing all the details of the events.
    - Provide a short summary (~ 1 page) of the entire process at the beginning of this .md file including:
      - Short description of case providing a big picture,
      - Start date of process / support request,
