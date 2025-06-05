@@ -16,7 +16,7 @@ Some relevant factors:
 
 ## How to add your contributions
 1. Make a directory named according to the following structure based on your specific details:
-    - `YYMMDD_NameOfContributor_XXX`, where the 3 blocks of informatuon are separated separated by `_`'s. The 3 blocks are as follows:
+    - `YYMMDD_NameOfContributor_XXX`, where the 3 blocks of information are separated by `_`'s. The 3 blocks are as follows:
       - `YYMMDD`: start date of the support request / nightmare expressed as the last two digits of the year, the month (two digits) and the day (two digits),
       - `NameOfContributor`: your github username,
       - `XXX`: number of existing contributions in the given issue category + 1 (three digits).
