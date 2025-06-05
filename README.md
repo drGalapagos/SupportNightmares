@@ -70,7 +70,7 @@ Some relevant factors:
     - *Example of a concrete case where:*
        - *the [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001) directory of the concrete case contains:*
           - *an [`assets`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/assets) directory for*
-             - *[`supporting documents`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/assets/250228_00_01.jpg),*
+             - *supporting documents such as the [`250228_00_01.jpg`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/assets/250228_00_01.jpg) file,*
           - *the main [`250228_drgalapagos_001.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001.md) file describing events in the case,*
           - *along with the [`250228_drgalapagos_001_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_analysis.md) file focusing on the analysis of the case.*
 
