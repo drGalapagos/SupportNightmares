@@ -16,7 +16,9 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Structure of document:**
 
-* EVENTS are sorted by ascending order of date (i.e. latest update at the end of document). SCREENSHOTS of events where a reply is sent to an e-mail are sorted by a descending order of date (i.e. latest reply to an e-mail is at the beginning of the screenshot). E-mail MESSAGES are followed by the attachments sent with the e-mail (if there’s any).
+* EVENTS are sorted by ascending order of date (i.e. latest update at the end of document).
+* SCREENSHOTS of events where a reply is sent to an e-mail are sorted by a descending order of date (i.e. latest reply to an e-mail is at the beginning of the screenshot).
+* E-mail MESSAGES are followed by the attachments sent with the e-mail (if there’s any).
 
 ## **Number of e-mails sent and received in connection with this case:**
 
