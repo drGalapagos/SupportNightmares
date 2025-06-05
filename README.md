@@ -2,7 +2,7 @@
 A collection of nightmares (unsolved problems / unpleasent experiences / unfair treatments, etc.) generated during interactions with various customer support teams while they were doing their best to solve problems blocking their paying customers from achieveing their goals. The cases are supplemented with proofs and analyses of the interactions.
 
 ## Motivation
-Unpleasent experiences with various tech support teams require understanding factors contributing to these undesriable situations (from the perspective of the paying user).
+Unpleasant experiences with various tech support teams motivate the analysis to better understand the factors contributing to these undesriable situations (from the perspective of the paying customer). Only by having a better understanding first, could provide ideas how to counter and solve these meta-issues on top of the underlying issues which triggered the initial support request.
 Relevant factors:
 - Power imbalance,
 - Abuse of monopolistic advantages,
