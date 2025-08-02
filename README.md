@@ -10,7 +10,7 @@ Some relevant factors:
 - Lack of competence at support teams,
 - etc.
 
-## Suggestions for improvements / activities to counter unfair handling of customers
+## Suggestions for improvements / activities to counter unfair treatment of customers
 - Customer rights organizations
 - etc.
 
