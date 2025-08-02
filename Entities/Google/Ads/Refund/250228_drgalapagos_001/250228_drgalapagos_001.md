@@ -26,7 +26,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Current status:**
 
-* Unsolved, the support team keeps preventing the completion of a legitimate refund process with various dark tactics and strategies.
+* Unsolved, the support team failed to process a simple legitimate refund process with various dark tactics and strategies within more than a reasonable time (84 days).
 
 ## **Previous statuses:**
 
@@ -429,3 +429,4 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 * and all the other steps taken until Event 12\.
 
 **Step taken by customer:** Waiting for a reply from the other team dealing with the filed complaint. After waiting more than enough patiently… cancelled business workspace account related to the case, stopped using Google Ads. Planned the detailed analysis of the entire case.
+
