@@ -1,6 +1,6 @@
 # **Case:**
 
-Automatic refund process from Google Ads payment profile to bank account triggered by closing the payment profile failed due to the missing option to select “COMPLETE REFUND”, which was mentioned in the first notification e-mail about the refund. This document shows an attempt to get help from the support team.
+Automatic refund process from Google Ads payment profile to bank account triggered by closing one of the payments profiles associated with the active advertiser account. The legitimate refund initially failed due to the missing option to select “COMPLETE REFUND”, which was mentioned in the first notification e-mail about the refund. This document shows an attempt to get help from the "support" team.
 
 ## **Start date of process:** 
 
@@ -428,4 +428,4 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 * contradictory info provided by the support team in Event 07,  
 * and all the other steps taken until Event 12\.
 
-**Step taken by customer:** Waiting for a reply from the other team dealing with the filed complaint.
+**Step taken by customer:** Waiting for a reply from the other team dealing with the filed complaint. After waiting more than enough patiently… cancelled business workspace account related to the case, stopped using Google Ads. Planned the detailed analysis of the entire case.
