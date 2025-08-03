@@ -328,11 +328,11 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 **Event date:** 2025.05.14. (75 days after sending the original support request, 61 days after creating the original case).
 
-**Event:** Notification from the support team that they are still unable to process a legitimate refund. Repetition of the previous answer.
+**Event:** Notification from another(?) support team that a case has been opened.
 
-**Issue:** Lack of explanation about what prevents the support team from processing the refund. Lack of justification about why we should trust the claim made by the support team that after cancelling our account the funds will be refunded. The funds were already eligible for a refund, but after 75 days we still have not received them.
+**Issue:** Everything up to now.
 
-**Step taken by customer:** Opening another support request case at Google.  
+**Step taken by customer:** Waiting patiently for updates to the case.  
 
 ## **Event number:** 25\.
 
@@ -342,7 +342,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 **Event:** Notification from the support team that the request has been forwarded to the wider team.
 
-**Issue:** 
+**Issue:** Everything up to now.
 
 **Step taken by customer:** Waiting patiently.  
 
@@ -370,7 +370,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 * the original notification in Event 01,  
 * contradictory info provided by the support team in Event 07,  
-* and all the other steps taken until Event 12\.
+* and all the other steps taken until Event 12.
 
 **Step taken by customer:** Asking for explanation from the new support team, searching for other channels that may be able to deal with this issue properly.  
 
@@ -386,7 +386,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 * the original notification in Event 01,  
 * contradictory info provided by the support team in Event 07,  
-* and all the other steps taken until Event 12\.
+* and all the other steps taken until Event 12.
 
 **Step taken by customer:** Asking for the specific reason that prevents the new support team from completing a legitimate refund request.  
 
@@ -426,7 +426,8 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 * the original notification in Event 01,  
 * contradictory info provided by the support team in Event 07,  
-* and all the other steps taken until Event 12\.
+* and all the other steps taken until Event 12.
 
 **Step taken by customer:** Waiting for a reply from the other team dealing with the filed complaint. After waiting more than enough patiently… cancelled business workspace account related to the case, stopped using Google Ads. Planned the detailed analysis of the entire case.
+
 
