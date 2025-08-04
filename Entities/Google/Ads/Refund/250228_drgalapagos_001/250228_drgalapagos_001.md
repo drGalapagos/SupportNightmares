@@ -36,7 +36,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 01\.
 
-![250228_00_01](./assets/250228_00_01.jpg)
+![250228_00_01](./caseResources/250228_00_01.jpg)
 
 **Event date:** 2025.02.28.
 
@@ -48,7 +48,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 02\.
 
-![250228_01_01](./assets/250228_01_01.jpg)
+![250228_01_01](./caseResources/250228_01_01.jpg)
 
 **Event date:** 2025.02.28.
 
@@ -60,7 +60,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 03\.
 
-![250314_00_01](./assets/250314_00_01.jpg)
+![250314_00_01](./caseResources/250314_00_01.jpg)
 
 **Event date:** 2025.03.14. (14 days after sending the support request).
 
@@ -72,7 +72,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 04\.
 
-![250317_00_01](./assets/250317_00_01.jpg)
+![250317_00_01](./caseResources/250317_00_01.jpg)
 
 **Event date:** 2025.03.17. (17 days after sending a support request, 3 days after creating the case).
 
@@ -84,7 +84,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 05\.
 
-![250319_00_01](./assets/250319_00_01.jpg)
+![250319_00_01](./caseResources/250319_00_01.jpg)
 
 **Event date:** 2025.03.19. (19 days after sending a support request, 5 days after creating the case).
 
@@ -96,8 +96,8 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 06\.
 
-![250320_00_01](./assets/250320_00_01.jpg)
-![250320_00_02](./assets/250320_00_02.jpg)
+![250320_00_01](./caseResources/250320_00_01.jpg)
+![250320_00_02](./caseResources/250320_00_02.jpg)
 
 **Event date:** 2025.03.20. (20 days after sending a support request, 6 days after creating the case).
 
@@ -109,7 +109,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 07\.
 
-![250320_01_01](./assets/250320_01_01.jpg)
+![250320_01_01](./caseResources/250320_01_01.jpg)
 
 **Event date:** 2025.03.20. (20 days after sending a support request, 6 days after creating the case).
 
@@ -121,7 +121,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 08\.
 
-![250321_00_01](./assets/250321_00_01.jpg)
+![250321_00_01](./caseResources/250321_00_01.jpg)
 
 **Event date:** 2025.03.21. (21 days after sending a support request, 7 days after creating the case).
 
@@ -133,12 +133,12 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 09\.
 
-![250423_00_01](./assets/250423_00_01.jpg)
-![250423_00_02](./assets/250423_00_02.jpg)
-![250423_01_01](./assets/250423_01_01.jpg)
-![250423_01_02](./assets/250423_01_02.jpg)
-![250423_01_03](./assets/250423_01_03.jpg)
-![250423_01_04](./assets/250423_01_04.jpg)
+![250423_00_01](./caseResources/250423_00_01.jpg)
+![250423_00_02](./caseResources/250423_00_02.jpg)
+![250423_01_01](./caseResources/250423_01_01.jpg)
+![250423_01_02](./caseResources/250423_01_02.jpg)
+![250423_01_03](./caseResources/250423_01_03.jpg)
+![250423_01_04](./caseResources/250423_01_04.jpg)
 
 **Event date:** 2025.04.23. (54 days after sending a support request, 40 days after creating the case).
 
@@ -150,7 +150,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 10\.
 
-![250424_00_01](./assets/250424_00_01.jpg)
+![250424_00_01](./caseResources/250424_00_01.jpg)
 
 **Event date:** 2025.04.24. (55 days after sending a support request, 41 days after creating the case).
 
@@ -162,9 +162,9 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 11\.
 
-![250424_01_01](./assets/250424_01_01.jpg)
-![250424_01_02](./assets/250424_01_02.jpg)
-![250424_02_VerificationComplete](./assets/250424_02_VerificationComplete.jpg)
+![250424_01_01](./caseResources/250424_01_01.jpg)
+![250424_01_02](./caseResources/250424_01_02.jpg)
+![250424_02_VerificationComplete](./caseResources/250424_02_VerificationComplete.jpg)
 
 **Event date:** 2025.04.24. (55 days after sending a support request, 41 days after creating the case).
 
@@ -176,7 +176,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 12\.
 
-![250425_00_01](./assets/250425_00_01.jpg)
+![250425_00_01](./caseResources/250425_00_01.jpg)
 
 **Event date:** 2025.04.25. (56 days after sending a support request, 42 days after creating the case).
 
@@ -188,8 +188,8 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 13\.
 
-![250425_01_01](./assets/250425_01_01.jpg)
-![250425_01_02](./assets/250425_01_02.jpg)
+![250425_01_01](./caseResources/250425_01_01.jpg)
+![250425_01_02](./caseResources/250425_01_02.jpg)
 
 **Event date:** 2025.04.25. (56 days after sending a support request, 42 days after creating the case).
 
@@ -201,8 +201,8 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 14\.
 
-![250425_02_01](./assets/250425_02_01.jpg)
-![250425_02_02](./assets/250425_02_02.jpg)
+![250425_02_01](./caseResources/250425_02_01.jpg)
+![250425_02_02](./caseResources/250425_02_02.jpg)
 
 **Event date:** 2025.04.25. (56 days after sending a support request, 42 days after creating the case).
 
@@ -214,7 +214,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 15\.
 
-![250428_00_01](./assets/250428_00_01.jpg)
+![250428_00_01](./caseResources/250428_00_01.jpg)
 
 **Event date:** 2025.04.28. (59 days after sending a support request, 45 days after creating the case).
 
@@ -226,8 +226,8 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 16\.
 
-![250428_01_01](./assets/250428_01_01.jpg)
-![250428_01_02](./assets/250428_01_02.jpg)
+![250428_01_01](./caseResources/250428_01_01.jpg)
+![250428_01_02](./caseResources/250428_01_02.jpg)
 
 **Event date:** 2025.04.28. (59 days after sending a support request, 45 days after creating the case).
 
@@ -239,7 +239,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 17\.
 
-![250429_00_01](./assets/250429_00_01.jpg)
+![250429_00_01](./caseResources/250429_00_01.jpg)
 
 **Event date:** 2025.04.29. (60 days after sending a support request, 46 days after creating the case).
 
@@ -251,7 +251,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 18\.
 
-![250429_01_01](./assets/250429_01_01.jpg)
+![250429_01_01](./caseResources/250429_01_01.jpg)
 
 **Event date:** 2025.04.29. (60 days after sending a support request, 46 days after creating the case).
 
@@ -263,7 +263,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 19\.
 
-![250501_00_01](./assets/250501_00_01.jpg)
+![250501_00_01](./caseResources/250501_00_01.jpg)
 
 **Event date:** 2025.05.01. (62 days after sending a support request, 48 days after creating the case).
 
@@ -275,7 +275,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
  
 ## **Event number:** 20\.
 
-![250507_00_01](./assets/250507_00_01.jpg)
+![250507_00_01](./caseResources/250507_00_01.jpg)
 
 **Event date:** 2025.05.07. (68 days after sending a support request, 54 days after creating the case).
 
@@ -287,7 +287,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 21\.
 
-![250512_00_01](./assets/250512_00_01.jpg)
+![250512_00_01](./caseResources/250512_00_01.jpg)
 
 **Event date:** 2025.05.12. (73 days after sending a support request, 59 days after creating the case).
 
@@ -299,8 +299,8 @@ Automatic refund process from Google Ads payment profile to bank account trigger
  
 ## **Event number:** 22\.
 
-![250513_00_01](./assets/250513_00_01.jpg)
-![250513_00_02](./assets/250513_00_02.jpg)
+![250513_00_01](./caseResources/250513_00_01.jpg)
+![250513_00_02](./caseResources/250513_00_02.jpg)
 
 **Event date:** 2025.05.13. (74 days after sending a support request, 60 days after creating the case).
 
@@ -312,7 +312,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
  
 ## **Event number:** 23\.
 
-![250514_00_01](./assets/250514_00_01.jpg)
+![250514_00_01](./caseResources/250514_00_01.jpg)
 
 **Event date:** 2025.05.14. (75 days after sending a support request, 61 days after creating the case).
 
@@ -324,7 +324,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 24\.
 
-![250514_01_01](./assets/250514_01_01.jpg)
+![250514_01_01](./caseResources/250514_01_01.jpg)
 
 **Event date:** 2025.05.14. (75 days after sending the original support request, 61 days after creating the original case).
 
@@ -336,7 +336,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 25\.
 
-![250515_00_01](./assets/250515_00_01.jpg)
+![250515_00_01](./caseResources/250515_00_01.jpg)
 
 **Event date:** 2025.05.15. (76 days after sending the original support request, 62 days after creating the original case).
 
@@ -348,7 +348,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 26\.
 
-![250517_00_01](./assets/250517_00_01.jpg)
+![250517_00_01](./caseResources/250517_00_01.jpg)
 
 **Event date:** 2025.05.17. (78 days after sending a support request, 64 days after creating the case).
 
@@ -360,7 +360,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 27\.
 
-![250522_00_01](./assets/250522_00_01.jpg)
+![250522_00_01](./caseResources/250522_00_01.jpg)
 
 **Event date:** 2025.05.22. (83 days after sending the original support request, 69 days after creating the original case).
 
@@ -376,7 +376,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 28\.
 
-![250522_01_01](./assets/250522_01_01.jpg)
+![250522_01_01](./caseResources/250522_01_01.jpg)
 
 **Event date:** 2025.05.22. (83 days after sending the original support request, 69 days after creating the original case).
 
@@ -392,7 +392,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 29\.
 
-![250522_02_01](./assets/250522_02_01.jpg)
+![250522_02_01](./caseResources/250522_02_01.jpg)
 
 **Event date:** 2025.05.22. (83 days after sending the original support request, 69 days after creating the original case).
 
@@ -404,7 +404,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 30\.
 
-![250522_GoogleAdsComplaints_01_01](./assets/250522_GoogleAdsComplaints_01_01.jpg)
+![250522_GoogleAdsComplaints_01_01](./caseResources/250522_GoogleAdsComplaints_01_01.jpg)
 
 **Event date:** 2025.05.22. (83 days after sending the original support request, 69 days after creating the original case).
 
@@ -416,7 +416,7 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 
 ## **Event number:** 31\.
 
-![250523_00_01](./assets/250523_00_01.jpg)
+![250523_00_01](./caseResources/250523_00_01.jpg)
 
 **Event date:** 2025.05.23. (84 days after sending the original support request, 70 days after creating the original case).
 
@@ -429,5 +429,6 @@ Automatic refund process from Google Ads payment profile to bank account trigger
 * and all the other steps taken until Event 12.
 
 **Step taken by customer:** Waiting for a reply from the other team dealing with the filed complaint. After waiting more than enough patiently… cancelled business workspace account related to the case, stopped using Google Ads. Planned the detailed analysis of the entire case.
+
 
 
