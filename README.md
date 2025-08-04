@@ -25,9 +25,9 @@ Some relevant factors:
     - `XXX`: ***number of your previous*** contributions in the given issue category `+ 1` (three digits).
   - *Example: [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001)*
 
-**2. Use the [`assets`](./Template/YYMMDD_NameOfContributor_XXX/assets) directory inside the [`YYMMDD_NameOfContributor_XXX`](./Template/YYMMDD_NameOfContributor_XXX) directory to share:**
+**2. Use the [`caseResources`](./Template/YYMMDD_NameOfContributor_XXX/caseResources) directory inside the [`YYMMDD_NameOfContributor_XXX`](./Template/YYMMDD_NameOfContributor_XXX) directory to share:**
   - Any supporting documents, files, pictures, recordings, etc. that may be relevant for your case.
-  - *Example: [`ExampleScreenshot.jpg`](./Template/YYMMDD_NameOfContributor_XXX/assets/ExampleScreenshot.jpg) can be replaced with a screenshot of an event in the process.*
+  - *Example: [`ExampleScreenshot.jpg`](./Template/YYMMDD_NameOfContributor_XXX/caseResources/ExampleScreenshot.jpg) can be replaced with a screenshot of an event in the process.*
 
 **3. Rename the [`YYMMDD_NameOfContributor_XXX.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX.md) file within the directory using your specific details as defined in Step 1. This will be the main file for the instance of your case containing all the details of the events such as:**
   - Using the structure of the template `.md` file, provide a short summary (~ 1 page) of the entire process at the beginning of this document including:
@@ -69,8 +69,8 @@ Some relevant factors:
     - Place your directories and file(s) into the appropriate directory representing the general type of issue you tried to solve by asking for help from the support team.
     - *Example of a concrete case where:*
        - *the [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001) directory of the concrete case contains:*
-          - *an [`assets`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/assets) directory for*
-             - *supporting documents such as the [`250228_00_01.jpg`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/assets/250228_00_01.jpg) file,*
+          - *a [`caseResources`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources) directory for*
+             - *supporting documents such as the [`250228_00_01.jpg`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources/250228_00_01.jpg) file,*
           - *the main [`250228_drgalapagos_001.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001.md) file describing events in the case,*
           - *along with the [`250228_drgalapagos_001_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_analysis.md) file focusing on the analysis of the case.*
 
