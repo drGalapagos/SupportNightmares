@@ -13,10 +13,6 @@ Data collection and sharing the experiences is motivated by the aforementioned c
 
 It is hoped that by having a better understanding through sharing the experiences, it will be possible to develop countermeasures and solve these meta-issues which exists on top of the underlying issues which triggered the initial support request.
 
-## Suggestions for improvements / activities to counter unfair treatment of customers
-- Customer rights organizations
-- etc.
-
 ## How to share your experience / add your contributions
 
 ### You can customize the template folders and `.md` files within the [`Template`](./Template/) folder as follows:
@@ -76,9 +72,7 @@ It is hoped that by having a better understanding through sharing the experience
           - *the [`250228_drgalapagos_001_0_case.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_0_case.md) main case file  documenting the events in the case,*
           - *along with the [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) analysis file  dissecting the case.*
 
-### Contributions and suggestions are welcome 🙌 and highly encouraged 💪!
-
-
+## Contributions and suggestions are welcome 🙌 and highly encouraged 💪!
 
 
 
