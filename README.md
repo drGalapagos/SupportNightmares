@@ -6,18 +6,18 @@ Unpleasant experiences with various support teams exist. Such experiences may be
 
 Data collection and sharing the experiences is motivated by the aforementioned considerations to enable:
 - building a better overview of the prevalence of the problems,
-- estimating the costs / losses mmore accurately on a global scale,
-- a better understanding the tactics used by rogue support teams,
+- estimating the costs / losses more accurately on a global scale,
+- building a better understanding of the tactics used by rogue support teams,
 - developing strategies and actions to protect people against unfair treatment,
 - orgnaizing collective actions aimed at balancing power imbalances when such imbalance is abused.
 
-It is hoped that by having a better understanding through sharing the experienes, it will be possible to develop countermeasures and solve these meta-issues on top of the underlying issues which triggered the initial support request.
+It is hoped that by having a better understanding through sharing the experiences, it will be possible to develop countermeasures and solve these meta-issues which exists on top of the underlying issues which triggered the initial support request.
 
 ## Suggestions for improvements / activities to counter unfair treatment of customers
 - Customer rights organizations
 - etc.
 
-## How to add your contributions
+## How to share your experience / add your contributions
 
 ### You can customize the template folders and `.md` files within the [`Template`](./Template/) folder as follows:
 
