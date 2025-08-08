@@ -28,9 +28,7 @@ It is hoped that by having a better understanding through sharing the experience
   - Any supporting documents, files, pictures, recordings, etc. that may be relevant for your case.
   - *Example: [`ExampleScreenshot.jpg`](./Template/YYMMDD_NameOfContributor_XXX/caseResources/ExampleScreenshot.jpg) can be replaced with a screenshot of an event in the process.*
 
-**3. Rename the [`YYMMDD_NameOfContributor_XXX_0_case.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_0_case.md) case file within the folder using your specific details as defined in Step 1. while leaving the '_0_case' part as it is.**
-
-This file will be the main document for your case containing all the details of the events such as:
+**3. Rename the [`YYMMDD_NameOfContributor_XXX_0_case.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_0_case.md) case file within the folder using your specific details as defined in Step 1. while leaving the '_0_case' part as it is. This file will be the main document for your case containing all the details of the events such as:**
   - A short summary (~ 1 page) of the entire process at the beginning of this document including:
     - Short description of case providing a big picture,
     - Start date of process / support request,
@@ -47,7 +45,7 @@ This file will be the main document for your case containing all the details of 
   - Use relative links when adding supporting documents.
   - *Example: [`250228_drgalapagos_001_0_case.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_0_case.md) presents a Google Ads Refund Nightmare involving a legitimate automatic refund process blocked by the support team.*
 
-***4. Optional step if you would like to provide an in-depth, subjective analysis of the process***
+***4. Optional step if you would like to provide an in-depth, subjective analysis of the process:***
  - Rename the [`YYMMDD_NameOfContributor_XXX_1_analysis.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_1_analysis.md) file according to your specific details as defined in Step 1. while leaving the '_1_analysis' part as it is.
  - Use this file for:
    - Analysing the events and your experiences in light of some specific theoretical framework.
@@ -75,8 +73,8 @@ This file will be the main document for your case containing all the details of 
           - *along with the [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) analysis file  dissecting the case.*
 		  
 **6. Send a pull request / add your contributions to the main repository**
-  - Finalize the contribution by adding it to the main repository
-  - Indicate whether your contribution should be further processed into a blog post or any other artifact.
+  - Finalize your contribution and share it with everyone by adding it to the main repository.
+  - Indicate if you want your contribution to be processed further into a blog post or any other artifact or send a ready-to-post document linking to all the resources used in the analysis.
 
 ## Contributions and suggestions are welcome 🙌 and highly encouraged 💪!
 
