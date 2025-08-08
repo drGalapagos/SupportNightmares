@@ -24,12 +24,13 @@ It is hoped that by having a better understanding through sharing the experience
     - `XXX`: ***number of your previous*** contributions in the given issue category `+ 1` (three digits).
   - *Example of a folder for a concrete case: [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001)*
 
-**2. Use the [`caseResources`](./Template/YYMMDD_NameOfContributor_XXX/caseResources) folder inside the [`YYMMDD_NameOfContributor_XXX`](./Template/YYMMDD_NameOfContributor_XXX) folder to share**
+**2. Use the [`caseResources`](./Template/YYMMDD_NameOfContributor_XXX/caseResources) folder inside the [`YYMMDD_NameOfContributor_XXX`](./Template/YYMMDD_NameOfContributor_XXX) folder to share:**
   - Any supporting documents, files, pictures, recordings, etc. that may be relevant for your case.
   - *Example: [`ExampleScreenshot.jpg`](./Template/YYMMDD_NameOfContributor_XXX/caseResources/ExampleScreenshot.jpg) can be replaced with a screenshot of an event in the process.*
 
 **3. Rename the [`YYMMDD_NameOfContributor_XXX_0_case.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_0_case.md) case file within the folder using your specific details as defined in Step 1. while leaving the '_0_case' part as it is.**
- This file will be the main document for your case containing all the details of the events such as:
+
+This file will be the main document for your case containing all the details of the events such as:
   - A short summary (~ 1 page) of the entire process at the beginning of this document including:
     - Short description of case providing a big picture,
     - Start date of process / support request,
