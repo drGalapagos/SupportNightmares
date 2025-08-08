@@ -21,7 +21,7 @@ It is hoped that by having a better understanding through sharing the experience
    > [!TIP]
    > Remove any [`personally identifiable information`](https://en.wikipedia.org/wiki/Personal_data)(PII) that you don't want to publicly disclose with the documents of the case. PII may include: (1) any information that can be used to distinguish or trace an individual's identity, such as name, social security number, date and place of birth, mother's maiden name, or biometric records; and (2) any other information that is linked or linkable to an individual, such as medical, educational, financial, and employment information" including meta-data stored in digital files.
    
-**2. Compile all the supporting documents into a temporary case file and provide some explanation about the case and the events.**
+**2. Compile all the supporting documents (or link them) into a temporary case file and provide some explanation about the case and the events.**
   - The temporary case file ideally contains the following details to provide readers with a good overview of the events of the case:	
     - A short summary (~ 1 page) of the entire process at the beginning of this document including:
       - Short description of case providing a big picture,
@@ -55,7 +55,7 @@ It is hoped that by having a better understanding through sharing the experience
 	
 - *Example: [`ExampleScreenshot.jpg`](./Template/YYMMDD_NameOfContributor_XXX/caseResources/ExampleScreenshot.jpg) can be replaced with a screenshot of an event in the process.*
 
-**5. Create a <ins>main case file</ins> from the temporary case file compiled in Step 2. by renaming the [`YYMMDD_NameOfContributor_XXX_0_case.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_0_case.md) template case file using your specific details as defined in Step 3. Don't modify the '_0_case' part of the filename. Copy-paste all the details and supporting documents of your case from the temporary case file compiled in Step 2. into this <ins>main case file</ins>.**
+**5. Create a <ins>main case file</ins> from the temporary case file compiled in Step 2. by renaming the [`YYMMDD_NameOfContributor_XXX_0_case.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_0_case.md) template case file using your specific details as defined in Step 3. Don't modify the '_0_case' part of the filename. Copy-paste all the details of the case and the supporting documents (or their links) from the temporary case file compiled in Step 2. into the <ins>main case file</ins>.**
 	
 - *Example: [`250228_drgalapagos_001_0_case.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_0_case.md) presents a Google Ads Refund Nightmare involving a legitimate automatic refund process blocked by the support team.*
 
