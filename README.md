@@ -59,7 +59,7 @@ It is hoped that by having a better understanding through sharing the experience
 	
 - *Example: [`250228_drgalapagos_001_0_case.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_0_case.md) presents a Google Ads Refund Nightmare involving a legitimate automatic refund process blocked by the support team.*
 
-***6. Optional step if you would like to provide an in-depth, subjective analysis of the process: rename the [`YYMMDD_NameOfContributor_XXX_1_analysis.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_1_analysis.md) file according to your specific details as defined in Step 3. while leaving the '_1_analysis' part as it is.***
+####6. Optional step if you would like to provide an in-depth, subjective analysis of the process: rename the [`YYMMDD_NameOfContributor_XXX_1_analysis.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_1_analysis.md) file according to your specific details as defined in Step 3. while leaving the '_1_analysis' part as it is.
 - Use this file for:
   - Analysing the events and your experiences through the lens of some theoretical framework.
   - Identifying patterns of behavior that were especially problematic from the support team.
@@ -106,8 +106,8 @@ It is hoped that by having a better understanding through sharing the experience
           - *along with the [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) analysis file  dissecting the case.*
 		  
 **8. Send a pull request / add your contributions to the main repository:**
-- Finalize your contribution and share it with everyone by adding it to the main repository.
-- Indicate if you want your contribution to be processed further into a blog post or any other artifact or send a ready-to-post document linking to all the resources used in the analysis.
+  - Finalize your contribution and share it with everyone by adding it to the main repository.
+  - Indicate if you want your contribution to be processed further into a blog post or any other artifact or send a ready-to-post document linking to all the resources used in the analysis.
 
 
 ## Contributions and suggestions are welcome 🙌 and highly encouraged 💪!
