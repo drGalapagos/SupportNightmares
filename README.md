@@ -66,11 +66,10 @@ It is hoped that by having a better understanding through sharing the experience
     - *List of [`Sub-units`](./Entities/Google) already present within an entity.*
   - **Issue:** this level represents the general type of your issue.
     - If the general type of issue is already present in this folder, choose that one!
-    - If the general type of issue is not yet present, add it by defining its name as succinctly as possible. Use max. 5 words without spaces with the first letter of each word capitalized. The following are valid names for issues: BlockedAccount, DiscrepancyBetweenInstructionsVsInterface, Refund, DefectiveProduct, etc.
+    - If the general type of issue is not yet present, add it by defining its name as succinctly as possible. Use max. 5 words without spaces with the first letter of each word capitalized. The following are valid names for issues: *BlockedAccount, DiscrepancyBetweenInstructionsVsInterface, Refund, DefectiveProduct*, etc.
     - *List of [`Issues`](./Entities/Google/Ads) already present within a sub-unit of an entity.*
-
-**Example of a concrete case:** the folders and `.md` file(s) created in Steps 1-4. describing the case that is worth sharing.
-    - Place your folders and file(s) into the appropriate folder representing the general type of issue you tried to solve by asking for help from the support team.
+  - **Case:** this level represents the concrete case.
+	- Place your folders and `.md` file(s) created in Steps 1-4. describing the case that is worth sharing into the appropriate folder representing the general type of issue you tried to solve by asking for help from the support team.
     - *Example of a concrete case where:*
        - *the case folder [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001) contains:*
           - *a folder for [`caseResources`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources):*
