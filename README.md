@@ -75,7 +75,15 @@ It is hoped that by having a better understanding through sharing the experience
 	  - If the entity is not yet present, add it by defining its name.
 	   
   
-	- *Example: list of [`Entities`](./Entities) already present in the folder structure.*
+	  - *Example: list of [`Entities`](./Entities) already present in the folder structure.*
+
+    - **Entities:** are providers of...
+
+        - 
+            - If the entity you had an issue with is already present in this folder, choose that one!
+            - If the entity is not yet present, add it by defining its name.
+
+        - *Example: list of [`Entities`](./Entities) already present in the folder structure.*
 	
 - **Sub-units:** the next level represents sub-units within the entity such as a branch, department or a smaller meaningful unit.
 
