@@ -39,7 +39,7 @@ It is hoped that by having a better understanding through sharing the experience
     - Use relative links when adding supporting documents.
   
    > [!IMPORTANT]
-   > While the files and supporting documents related to your case can be in any language, please use English for the temporaray (and main) case file (e.g. when adding a summary, comments to the Events, additional details, etc.).
+   > While the files and supporting documents related to your case can be in any language, please use English for the temporary and main case file (e.g. when adding a summary, comments to the Events, additional details, etc.).
 
 ### Customize the template folders and the `.md` files within the [`Template`](./Template/) folder as follows:
 
@@ -55,7 +55,7 @@ It is hoped that by having a better understanding through sharing the experience
 	
   - *Example: [`ExampleScreenshot.jpg`](./Template/YYMMDD_NameOfContributor_XXX/caseResources/ExampleScreenshot.jpg) can be replaced with a screenshot of an event in the process.*
 
-**5. Create a main case file from the temporary case file compiled in Step 2. by renaming the [`YYMMDD_NameOfContributor_XXX_0_case.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_0_case.md) template case file using your specific details as defined in Step 3. Don't modify the '_0_case' part of the filename. Copy-paste all the details and supporting documents of your case from the temporary case file compiled in Step 2. into this main case file.**
+**5. Create a <ins>main case file</ins> from the temporary case file compiled in Step 2. by renaming the [`YYMMDD_NameOfContributor_XXX_0_case.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_0_case.md) template case file using your specific details as defined in Step 3. Don't modify the '_0_case' part of the filename. Copy-paste all the details and supporting documents of your case from the temporary case file compiled in Step 2. into this <ins>main case file</ins>.**
 	
   - *Example: [`250228_drgalapagos_001_0_case.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_0_case.md) presents a Google Ads Refund Nightmare involving a legitimate automatic refund process blocked by the support team.*
 
