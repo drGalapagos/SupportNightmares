@@ -72,13 +72,13 @@ It is hoped that by having a better understanding through sharing the experience
   - **Entities:** are providers of various services (e.g. companies, organizations, etc.). They represent the top-level organizations that you had an issue with. To solve the issue you encountered, you requested help from the support team of one of these entities.
 
       - If the entity...
-	  
+
 	    - you had an issue with is already present in this folder, choose that one!
 	    - is not yet present, add it by defining its name.
-  
+
 	  - *Example: list of [`Entities`](./Entities) already present in the folder structure.*
 
-- **Sub-units:** the next level represents sub-units within the entity such as a branch, department or a smaller meaningful unit.
+  - **Sub-units:** the next level represents sub-units within the entity such as a branch, department or a smaller meaningful unit.
 
       - If the sub-unit of the entity...
 
@@ -87,7 +87,7 @@ It is hoped that by having a better understanding through sharing the experience
 
 	  - *Example: list of [`Sub-units`](./Entities/Google) already present within an entity.*
 	
-- **Issue:** this level represents the general type of your issue.
+  - **Issue:** this level represents the general type of your issue.
 
       - If the general type of issue is...
 	  
@@ -96,14 +96,14 @@ It is hoped that by having a better understanding through sharing the experience
 	
 	  - *Example: list of [`Issues`](./Entities/Google/Ads) already present within a sub-unit of an entity.*
 	
-- **Case:** this level represents your concrete case.
-  - Place your folders and `.md` file(s) created in Steps 3-6. describing the case that is worth sharing into the appropriate folder representing the general type of issue you tried to solve by asking for help from the support team.
+  - **Case:** this level represents your concrete case.
+    - Place your folders and `.md` file(s) created in Steps 3-6. describing the case that is worth sharing into the appropriate folder representing the general type of issue you tried to solve by asking for help from the support team.
 	
-    - *Example of a concrete case where:*
-      - *the [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001) case folder contains:*
-        - *a [`caseResources`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources) folder for supporting documents such as the [`250228_00_01.jpg`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources/250228_00_01.jpg) file,*
-        - *the [`250228_drgalapagos_001_0_case.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_0_case.md) <ins>main case file</ins>  documenting the events in the case,*
-        - *along with the [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) analysis file  dissecting the case.*
+      - *Example of a concrete case where:*
+        - *the [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001) case folder contains:*
+          - *a [`caseResources`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources) folder for supporting documents such as the [`250228_00_01.jpg`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources/250228_00_01.jpg) file,*
+          - *the [`250228_drgalapagos_001_0_case.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_0_case.md) <ins>main case file</ins>  documenting the events in the case,*
+          - *along with the [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) analysis file  dissecting the case.*
 		  
 **8. Send a pull request / add your contributions to the main repository:**
 - Finalize your contribution and share it with everyone by adding it to the main repository.
