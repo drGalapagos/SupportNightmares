@@ -71,23 +71,14 @@ It is hoped that by having a better understanding through sharing the experience
 **7. Place the folders and the `.md` file(s) in the appropriate folder based on the following structure:**
   - **Entities:** are providers of various services (e.g. companies, organizations, etc.). They represent the top-level organizations that you had an issue with. To solve the issue you encountered, you requested help from the support team of one of these entities.
 
-      - If the entity you had an issue with is already present in this folder, choose that one!
-	  - If the entity is not yet present, add it by defining its name.
-	   
+      - If...:
+	  
+	    - the entity you had an issue with is already present in this folder, choose that one!
+	    - the entity is not yet present, add it by defining its name.
+
   
 	  - *Example: list of [`Entities`](./Entities) already present in the folder structure.*
 
-7. Place the folders and the `.md` file(s) in the appropriate folder based on the following structure:
-
-    - **Entities:** are providers of...
-
-        - The following applies:
-
-            - If the entity you had an issue with is already present in this folder, choose that one.
-            - If the entity is not yet present, add it by defining its name.
-
-        - *Example: list of [`Entities`](./Entities) already present in the folder structure.*
-	
 - **Sub-units:** the next level represents sub-units within the entity such as a branch, department or a smaller meaningful unit.
 
   - If the sub-unit of the entity you had an issue with is already present in this folder, choose that one!
