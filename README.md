@@ -39,7 +39,7 @@ It is hoped that by having a better understanding through sharing the experience
     - Use relative links when adding supporting documents.
   
    > [!IMPORTANT]
-   > While the files and supporting documents related to your case can be in any language, please use English for the main case file (e.g. when adding a summary, comments to the Events, additional details, etc.).
+   > While the files and supporting documents related to your case can be in any language, please use English for the temporaray (and main) case file (e.g. when adding a summary, comments to the Events, additional details, etc.).
 
 ### Customize the template folders and the `.md` files within the [`Template`](./Template/) folder as follows:
 
