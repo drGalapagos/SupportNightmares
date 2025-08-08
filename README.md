@@ -26,14 +26,14 @@ It is hoped that by having a better understanding through sharing the experience
     - `YYMMDD`: start date of the support request / nightmare expressed as the last two digits of the year, the month and the day,
     - `NameOfContributor`: your github username or any other name,
     - `XXX`: ***number of your previous*** contributions in the given issue category `+ 1` (three digits).
-  - *Example of a folder: [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001)*
+  - *Example of a folder for a concrete case: [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001)*
 
 **2. Use the [`caseResources`](./Template/YYMMDD_NameOfContributor_XXX/caseResources) folder inside the [`YYMMDD_NameOfContributor_XXX`](./Template/YYMMDD_NameOfContributor_XXX) folder to share:**
   - Any supporting documents, files, pictures, recordings, etc. that may be relevant for your case.
   - *Example: [`ExampleScreenshot.jpg`](./Template/YYMMDD_NameOfContributor_XXX/caseResources/ExampleScreenshot.jpg) can be replaced with a screenshot of an event in the process.*
 
-**3. Rename the [`YYMMDD_NameOfContributor_XXX_0_case.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_0_case.md) file within the folder using your specific details as defined in Step 1. while leaving the '_0_case' part as it is. This file be the main document for your case containing all the details of the events such as:**
-  - Using the structure of the template `.md` file, provide a short summary (~ 1 page) of the entire process at the beginning of this document including:
+**3. Rename the [`YYMMDD_NameOfContributor_XXX_0_case.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_0_case.md) case file within the folder using your specific details as defined in Step 1. while leaving the '_0_case' part as it is. This file be the main document for your case containing all the details of the events such as:**
+  - A short summary (~ 1 page) of the entire process at the beginning of this document including:
     - Short description of case providing a big picture,
     - Start date of process / support request,
     - Date of latest update to the request,
