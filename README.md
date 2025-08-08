@@ -49,7 +49,7 @@ It is hoped that by having a better understanding through sharing the experience
   - Use relative links when adding supporting documents.
   
    > [!IMPORTANT]
-   > While the files and supporting documents related to your case can be in any language, please use English for the case file ( e.g. when adding a summary, comments to the Events, additional details, etc.).
+   > While the files and supporting documents related to your case can be in any language, please use English for the main case file (e.g. when adding a summary, comments to the Events, additional details, etc.).
 	
   - *Example: [`250228_drgalapagos_001_0_case.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_0_case.md) presents a Google Ads Refund Nightmare involving a legitimate automatic refund process blocked by the support team.*
 
