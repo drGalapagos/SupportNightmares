@@ -77,13 +77,16 @@ It is hoped that by having a better understanding through sharing the experience
   
 	  - *Example: list of [`Entities`](./Entities) already present in the folder structure.*
 
-- **Entities:** are providers of...
+7. Place the folders and the `.md` file(s) in the appropriate folder based on the following structure:
 
-	- 
-		- If the entity you had an issue with is already present in this folder, choose that one!
-		- If the entity is not yet present, add it by defining its name.
+    - **Entities:** are providers of...
 
-	- *Example: list of [`Entities`](./Entities) already present in the folder structure.*
+        - The following applies:
+
+            - If the entity you had an issue with is already present in this folder, choose that one.
+            - If the entity is not yet present, add it by defining its name.
+
+        - *Example: list of [`Entities`](./Entities) already present in the folder structure.*
 	
 - **Sub-units:** the next level represents sub-units within the entity such as a branch, department or a smaller meaningful unit.
 
