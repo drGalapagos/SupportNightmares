@@ -25,10 +25,10 @@ It is hoped that by having a better understanding through sharing the experience
   - *Example of a folder for a concrete case: [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001)*
 
 **2. Use the [`caseResources`](./Template/YYMMDD_NameOfContributor_XXX/caseResources) folder inside the [`YYMMDD_NameOfContributor_XXX`](./Template/YYMMDD_NameOfContributor_XXX) folder to share:**
-  - Any supporting documents, files, pictures, recordings, etc. that may be relevant for your case.
+- Any supporting documents, files, pictures, recordings, etc. that may be relevant for your case.
 	
-	> [!TIP]
-	> Remove any [`personally identifiable information`](https://en.wikipedia.org/wiki/Personal_data)(PII) that you don't want to publicly disclose with the documents of the case. PII may include: (1) any information that can be used to distinguish or trace an individual's identity, such as name, social security number, date and place of birth, mother's maiden name, or biometric records; and (2) any other information that is linked or linkable to an individual, such as medical, educational, financial, and employment information" including meta-data stored in digital files.
+   > [!TIP]
+   > Remove any [`personally identifiable information`](https://en.wikipedia.org/wiki/Personal_data)(PII) that you don't want to publicly disclose with the documents of the case. PII may include: (1) any information that can be used to distinguish or trace an individual's identity, such as name, social security number, date and place of birth, mother's maiden name, or biometric records; and (2) any other information that is linked or linkable to an individual, such as medical, educational, financial, and employment information" including meta-data stored in digital files.
 	
   - *Example: [`ExampleScreenshot.jpg`](./Template/YYMMDD_NameOfContributor_XXX/caseResources/ExampleScreenshot.jpg) can be replaced with a screenshot of an event in the process.*
 
