@@ -108,7 +108,8 @@ It is hoped that by having a better understanding through sharing the experience
 **8. Send a pull request / add your contributions to the main repository:**
 - Finalize your contribution and share it with everyone by adding it to the main repository.
 - Indicate if you want your contribution to be processed further into a blog post or any other artifact or send a ready-to-post document linking to all the resources used in the analysis.
-
+<br/>
+<br/>
 ## Contributions and suggestions are welcome 🙌 and highly encouraged 💪!
 
 
