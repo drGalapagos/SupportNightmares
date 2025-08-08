@@ -61,10 +61,11 @@ It is hoped that by having a better understanding through sharing the experience
 
 ***6. Optional step if you would like to provide an in-depth, subjective analysis of the process:***
  - Rename the [`YYMMDD_NameOfContributor_XXX_1_analysis.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_1_analysis.md) file according to your specific details as defined in Step 3. while leaving the '_1_analysis' part as it is.
+ 
  - Use this file for:
    - Analysing the events and your experiences through the lens of some theoretical framework.
    
-   - *Example: [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) presents a personal analysis of the Google Ads Refund Nightmare using principles from relevant fields of study.*
+- *Example: [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) presents a personal analysis of the Google Ads Refund Nightmare using principles from relevant fields of study.*
 
 **7. Place the folders and the `.md` file(s) in the appropriate folder based on the following structure:**
   - **Entities:** these are providers of various services (e.g. companies, organizations, etc.). They represent the top-level organizations that you had an issue with. To solve the issue you encountered, you requested help from the support team of one of these entities.
