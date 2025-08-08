@@ -23,20 +23,20 @@ It is hoped that by having a better understanding through sharing the experience
    
 **2. Compile all the supporting documents into a temporary case file and provide some explanation about the case and the events.**
   - The temporary case file ideally contains the following details to provide readers with a good overview of the events of the case:	
-   - A short summary (~ 1 page) of the entire process at the beginning of this document including:
-     - Short description of case providing a big picture,
-     - Start date of process / support request,
-     - Date of latest update to the request,
-     - Number of interactions with support to date,
-     - Current status of the case (e.g. unsolved / solved in such and such a way / gave up, etc..).
-   - For each message exchange / event you can provide the following details in a short format:
-     - Event number,
-     - Event date,
-     - Event description,
-     - Issue with event,
-     - Step taken by customer,
-     - etc.
-   - Use relative links when adding supporting documents.
+    - A short summary (~ 1 page) of the entire process at the beginning of this document including:
+      - Short description of case providing a big picture,
+      - Start date of process / support request,
+      - Date of latest update to the request,
+      - Number of interactions with support to date,
+      - Current status of the case (e.g. unsolved / solved in such and such a way / gave up, etc..).
+    - For each message exchange / event you can provide the following details in a short format:
+      - Event number,
+      - Event date,
+      - Event description,
+      - Issue with event,
+      - Step taken by customer,
+      - etc.
+    - Use relative links when adding supporting documents.
   
    > [!IMPORTANT]
    > While the files and supporting documents related to your case can be in any language, please use English for the main case file (e.g. when adding a summary, comments to the Events, additional details, etc.).
