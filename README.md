@@ -66,7 +66,7 @@ It is hoped that by having a better understanding through sharing the experience
   - Providing suggestions for others how to avoid such cases.
   - Providing suggestions for organisations how to improve the performance of their support teams so that customers may actually benefit from the "support".
    
-- *Example: [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) presents a personal analysis of the Google Ads Refund Nightmare using principles from relevant fields of study.*
+  - *Example: [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) presents a personal analysis of the Google Ads Refund Nightmare using principles from relevant fields of study.*
 
 **7. Place the folders and the `.md` file(s) in the appropriate folder based on the following structure:**
 - **Entities:** are providers of various services (e.g. companies, organizations, etc.). They represent the top-level organizations that you had an issue with. To solve the issue you encountered, you requested help from the support team of one of these entities.
@@ -74,21 +74,21 @@ It is hoped that by having a better understanding through sharing the experience
   - If the entity you had an issue with is already present in this folder, choose that one!
   - If the entity is not yet present, add it by defining its name.
   
-- *Example: list of [`Entities`](./Entities) already present in the folder structure.*
+  - *Example: list of [`Entities`](./Entities) already present in the folder structure.*
 	
 - **Sub-units:** the next level represents sub-units within the entity such as a branch, department or a smaller meaningful unit.
 
   - If the sub-unit of the entity you had an issue with is already present in this folder, choose that one!
   - If the sub-unit of the entity is not yet present, add it by defining its name.
 	
-- *Example: list of [`Sub-units`](./Entities/Google) already present within an entity.*
+  - *Example: list of [`Sub-units`](./Entities/Google) already present within an entity.*
 	
 - **Issue:** this level represents the general type of your issue.
 
   - If the general type of issue is already present in this folder, choose that one!
   - If the general type of issue is not yet present, add it by defining its name as succinctly as possible. Use max. 5 words without spaces with the first letter of each word capitalized. The following are valid names for issues: *BlockedAccount, DiscrepancyBetweenInstructionsVsInterface, Refund, DefectiveProduct*, etc.
 	
-- *Example: list of [`Issues`](./Entities/Google/Ads) already present within a sub-unit of an entity.*
+  - *Example: list of [`Issues`](./Entities/Google/Ads) already present within a sub-unit of an entity.*
 	
 - **Case:** this level represents your concrete case.
   - Place your folders and `.md` file(s) created in Steps 3-6. describing the case that is worth sharing into the appropriate folder representing the general type of issue you tried to solve by asking for help from the support team.
