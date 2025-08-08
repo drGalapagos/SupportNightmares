@@ -68,12 +68,11 @@ It is hoped that by having a better understanding through sharing the experience
     - If the general type of issue is already present in this folder, choose that one!
     - If the general type of issue is not yet present, add it by defining its name as succinctly as possible. Use max. 5 words without spaces with the first letter of each word capitalized. The following are valid names for issues: *BlockedAccount, DiscrepancyBetweenInstructionsVsInterface, Refund, DefectiveProduct*, etc.
     - *List of [`Issues`](./Entities/Google/Ads) already present within a sub-unit of an entity.*
-  - **Case:** this level represents the concrete case.
+  - **Case:** this level represents your concrete case.
 	- Place your folders and `.md` file(s) created in Steps 1-4. describing the case that is worth sharing into the appropriate folder representing the general type of issue you tried to solve by asking for help from the support team.
     - *Example of a concrete case where:*
        - *the case folder [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001) contains:*
-          - *a folder for [`caseResources`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources):*
-             - *supporting documents such as the [`250228_00_01.jpg`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources/250228_00_01.jpg) file,*
+          - *a [`caseResources`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources) folder for supporting documents such as the [`250228_00_01.jpg`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources/250228_00_01.jpg) file,*
           - *the main case file [`250228_drgalapagos_001_0_case.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_0_case.md) documenting the events in the case,*
           - *along with the analysis file [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) dissecting the case.*
 
