@@ -1,14 +1,17 @@
 # 👨‍💻 SupportNightmares 👻 🧟 🧛
-A collection of nightmares (unsolved problems / unpleasent experiences / unfair treatments, etc.) generated during interactions with various customer support teams while they were doing their best to solve problems blocking their paying customers from achieveing their goals. The cases are supplemented with proofs and analyses of the interactions.
+A collection of SupportNightmares (unsolved problems / unpleasent experiences / unfair treatments, etc.) generated during interactions with various customer support teams while they were doing their best to solve problems blocking their paying customers from achieveing their goals. The cases are supplemented with proofs and analyses of the interactions.
 
 ## Motivation
-Unpleasant experiences with various tech support teams motivate the analysis to better understand the factors contributing to these undesriable situations (from the perspective of the paying customer). Only by having a better understanding first, can we come up with ideas on how to counter and solve these meta-issues on top of the underlying issues which triggered the initial support request.
-Some relevant factors:
-- Power imbalance,
-- Abuse of monopolistic advantages,
-- Effort required to change cervice provider (customer lock-in),
-- Lack of competence at support teams,
-- etc.
+Unpleasant experiences with various support teams exist. Such experiences may be shared by a large proportion of the population, but data on the global prevalence of the problem is scarce, scattered and disorganized. A large proportion of unpleasant experiences (e.g. unsolved cases, unfair handling of the case, decision against the interest of the user, failure to provide actual support, funds withheld illegally, etc.) may go unnoticed and unreported, due to various factors (e.g. time and effort required for documenting the events, unfairness just below a critical threshold, loss of motivation to persevere in strong headwind, opportunity costs, etc.). 
+
+Data collection and sharing the experiences is motivated by the aforementioned considerations to enable:
+- building a better overview of the prevalence of the problems,
+- estimating the costs / losses mmore accurately on a global scale,
+- a better understanding the tactics used by rogue support teams,
+- developing strategies and actions to protect people against unfair treatment,
+- orgnaizing collective actions aimed at balancing power imbalances when such imbalance is abused.
+
+It is hoped that by having a better understanding through sharing the experienes, it will be possible to develop countermeasures and solve these meta-issues on top of the underlying issues which triggered the initial support request.
 
 ## Suggestions for improvements / activities to counter unfair treatment of customers
 - Customer rights organizations
@@ -16,20 +19,20 @@ Some relevant factors:
 
 ## How to add your contributions
 
-### You can customize the template directories and `.md` files within the [`Template`](./Template/) directory as follows:
+### You can customize the template folders and `.md` files within the [`Template`](./Template/) folder as follows:
 
-**1. Make a copy of the [`YYMMDD_NameOfContributor_XXX`](./Template/YYMMDD_NameOfContributor_XXX) directory and rename it according to the following structure based on your specific details:**
+**1. Copy / fork the [`YYMMDD_NameOfContributor_XXX`](./Template/YYMMDD_NameOfContributor_XXX) folder and rename it according to the following structure based on your specific details:**
   - `YYMMDD_NameOfContributor_XXX`, where the 3 blocks of information are separated by `_`'s. The 3 blocks are as follows:
-    - `YYMMDD`: start date of the support request / nightmare expressed as the last two digits of the year, the month (two digits) and the day (two digits),
-    - `NameOfContributor`: your github username,
+    - `YYMMDD`: start date of the support request / nightmare expressed as the last two digits of the year, the month and the day,
+    - `NameOfContributor`: your github username or any other name,
     - `XXX`: ***number of your previous*** contributions in the given issue category `+ 1` (three digits).
-  - *Example: [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001)*
+  - *Example of a folder: [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001)*
 
-**2. Use the [`caseResources`](./Template/YYMMDD_NameOfContributor_XXX/caseResources) directory inside the [`YYMMDD_NameOfContributor_XXX`](./Template/YYMMDD_NameOfContributor_XXX) directory to share:**
+**2. Use the [`caseResources`](./Template/YYMMDD_NameOfContributor_XXX/caseResources) folder inside the [`YYMMDD_NameOfContributor_XXX`](./Template/YYMMDD_NameOfContributor_XXX) folder to share:**
   - Any supporting documents, files, pictures, recordings, etc. that may be relevant for your case.
   - *Example: [`ExampleScreenshot.jpg`](./Template/YYMMDD_NameOfContributor_XXX/caseResources/ExampleScreenshot.jpg) can be replaced with a screenshot of an event in the process.*
 
-**3. Rename the [`YYMMDD_NameOfContributor_XXX.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX.md) file within the directory using your specific details as defined in Step 1. This will be the main file for the instance of your case containing all the details of the events such as:**
+**3. Rename the [`YYMMDD_NameOfContributor_XXX_0_case.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_0_case.md) file within the folder using your specific details as defined in Step 1. while leaving the '_0_case' part as it is. This file be the main document for your case containing all the details of the events such as:**
   - Using the structure of the template `.md` file, provide a short summary (~ 1 page) of the entire process at the beginning of this document including:
     - Short description of case providing a big picture,
     - Start date of process / support request,
@@ -44,37 +47,38 @@ Some relevant factors:
     - Step taken by customer,
     - etc.
   - Use relative links when adding supporting documents.
-  - *Example: [`250228_drgalapagos_001.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001.md) presents a Google Ads Refund Nightmare involving a legitimate automatic refund process blocked by the support team.*
+  - *Example: [`250228_drgalapagos_001_0_case.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_0_case.md) presents a Google Ads Refund Nightmare involving a legitimate automatic refund process blocked by the support team.*
 
 ***4. Optional step if you would like to provide an in-depth, subjective analysis of the process:***
- - Rename the [`YYMMDD_NameOfContributor_XXX_analysis.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_analysis.md) file according to your specific details as defined in Step 1.
+ - Rename the [`YYMMDD_NameOfContributor_XXX_1_analysis.md`](./Template/YYMMDD_NameOfContributor_XXX/YYMMDD_NameOfContributor_XXX_1_analysis.md) file according to your specific details as defined in Step 1. while leaving the '_1_analysis' part as it is.
  - Use this file for:
    - Analysing the events and your experiences in light of some specific theoretical framework.
- - *Example: [`250228_drgalapagos_001_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_analysis.md) presents a personal analysis of the Google Ads Refund Nightmare using principles from relevant fields of study.*
+   - *Example: [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) presents a personal analysis of the Google Ads Refund Nightmare using principles from relevant fields of study.*
 
-**5. Place the directories and the `.md` file(s) in the appropriate folder based on the following structure:**
-  - **Entities:** these are providers of various services (e.g. companies, organizations, etc.). They represent the top-level organizations that you had an issue with. To solve the issue you encountered you requested help from the support team of one of these entities.
-    - If the entity you had an issue with is already present in this directory, choose that one!
+**5. Place the folders and the `.md` file(s) in the appropriate folder based on the following structure:**
+  - **Entities:** these are providers of various services (e.g. companies, organizations, etc.). They represent the top-level organizations that you had an issue with. To solve the issue you encountered, you requested help from the support team of one of these entities.
+    - If the entity you had an issue with is already present in this folder, choose that one!
     - If the entity is not yet present, add it by defining its name.
-    - *Example of an entity: [`Google`](./Entities/Google)*
+    - *List of [`Entities`](./Entities) already present in the folder structure.*
   - **Sub-units:** the next level represents sub-units within the previous entity such as a branch, department or a smaller unit within the entity.
-    - If the sub-unit of the entity you had an issue with is already present in this directory, choose that one!
+    - If the sub-unit of the entity you had an issue with is already present in this folder, choose that one!
     - If the sub-unit of the entity is not yet present, add it by defining its name.
-    - *Example of a sub-unit within an entity: [`Ads`](./Entities/Google/Ads)*
+    - *List of [`Sub-units`](./Entities/Google) already present within an entity.*
   - **Issue:** this level represents the general type of your issue.
-    - If the general type of issue is already present in this directory, choose that one!
-    - If the general type of issue is not yet present, add it by defining its name as succinctly as possible. Use max. 5 words without spaces with the first letter of each word capitalized.
-    - *Example of issues: [`Refund`](./Entities/Google/Ads/Refund), BlockedAccount, DiscrepancyBetweenInstructionsVsInterface, etc.*
-  - **Concrete case:** the directory(ies) and `.md` file(s) created in Steps 1-4. describing the process that is worth sharing.
-    - Place your directories and file(s) into the appropriate directory representing the general type of issue you tried to solve by asking for help from the support team.
-    - *Example of a concrete case where:*
-       - *the [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001) directory of the concrete case contains:*
-          - *a [`caseResources`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources) directory for*
-             - *supporting documents such as the [`250228_00_01.jpg`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources/250228_00_01.jpg) file,*
-          - *the main [`250228_drgalapagos_001.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001.md) file describing events in the case,*
-          - *along with the [`250228_drgalapagos_001_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_analysis.md) file focusing on the analysis of the case.*
+    - If the general type of issue is already present in this folder, choose that one!
+    - If the general type of issue is not yet present, add it by defining its name as succinctly as possible. Use max. 5 words without spaces with the first letter of each word capitalized. The following are valid names for issues: BlockedAccount, DiscrepancyBetweenInstructionsVsInterface, Refund, DefectiveProduct, etc.
+    - *List of [`Issues`](./Entities/Google/Ads) already present within a sub-unit of an entity.*
 
-### Contributions and suggestions are welcome, happy 🧠🌩️ing!
+**Example of a concrete case:** the folders and `.md` file(s) created in Steps 1-4. describing the case that is worth sharing.
+    - Place your folders and file(s) into the appropriate folder representing the general type of issue you tried to solve by asking for help from the support team.
+    - *Example of a concrete case where:*
+       - *the case folder [`250228_drgalapagos_001`](./Entities/Google/Ads/Refund/250228_drgalapagos_001) contains:*
+          - *a folder for [`caseResources`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources):*
+             - *supporting documents such as the [`250228_00_01.jpg`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/caseResources/250228_00_01.jpg) file,*
+          - *the main case file [`250228_drgalapagos_001_0_case.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_0_case.md) documenting the events in the case,*
+          - *along with the analysis file [`250228_drgalapagos_001_1_analysis.md`](./Entities/Google/Ads/Refund/250228_drgalapagos_001/250228_drgalapagos_001_1_analysis.md) dissecting the case.*
+
+### Contributions and suggestions are welcome 🙌 and highly encouraged 💪!
 
 
 
