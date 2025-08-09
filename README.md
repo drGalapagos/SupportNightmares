@@ -18,7 +18,7 @@ It is hoped that by having a better understanding through sharing the experience
 **1. Save and collect all your supporting documents related to the case.**
   - Supporting documents may include any files such as pictures, recordings, screenshots, message exchanges, etc. that are relevant for your case and provide evidence of the process.
 
-   > [!WARNING]
+   > [!CAUTION]
    > Remove any [`personally identifiable information`](https://en.wikipedia.org/wiki/Personal_data)(PII) that you don't want to publicly disclose with the documents of the case. PII may include: (1) any information that can be used to distinguish or trace an individual's identity, such as name, social security number, date and place of birth, mother's maiden name, or biometric records; and (2) any other information that is linked or linkable to an individual, such as medical, educational, financial, and employment information" including meta-data stored in digital files.
    
 **2. Compile all the supporting documents (or link them) into a temporary case file and provide some explanation about the case and the events.**
